@@ -1,0 +1,8 @@
+﻿  packet-tracing.cpp
+D:\muhely24\MuhelyApp\Packet-tracing\Packet tracing\Packet tracing\packet-tracing.cpp(196,20): warning C4244: 'initializing': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+D:\muhely24\MuhelyApp\Packet-tracing\Packet tracing\Packet tracing\packet-tracing.cpp(214): warning C4715: 'packet_tracing': not all control paths return a value
+  Packet tracing.vcxproj -> D:\muhely24\MuhelyApp\Packet-tracing\Packet tracing\Debug\Packet tracing.exe
