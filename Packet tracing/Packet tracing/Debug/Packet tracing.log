@@ -1,1 +1,11 @@
-﻿  Packet tracing.vcxproj -> D:\muhely24\MuhelyApp\Packet-tracing\Packet tracing\Debug\Packet tracing.exe
+﻿  packet-tracing.cpp
+D:\muhely24\MuhelyApp\Packet-tracing\Packet tracing\Packet tracing\packet-tracing.cpp(283,20): warning C4244: 'initializing': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+D:\muhely24\MuhelyApp\Packet-tracing\Packet tracing\Packet tracing\packet-tracing.cpp(414,23): warning C4305: '=': truncation from 'int' to 'char'
+D:\muhely24\MuhelyApp\Packet-tracing\Packet tracing\Packet tracing\packet-tracing.cpp(414,19): warning C4309: '=': truncation of constant value
+D:\muhely24\MuhelyApp\Packet-tracing\Packet tracing\Packet tracing\packet-tracing.cpp(442,28): warning C4305: '=': truncation from 'int' to 'char'
+D:\muhely24\MuhelyApp\Packet-tracing\Packet tracing\Packet tracing\packet-tracing.cpp(442,24): warning C4309: '=': truncation of constant value
+  Packet tracing.vcxproj -> D:\muhely24\MuhelyApp\Packet-tracing\Packet tracing\Debug\Packet tracing.exe
